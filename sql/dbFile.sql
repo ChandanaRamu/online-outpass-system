@@ -49,47 +49,10 @@ CREATE TABLE `reg` (
 --
 
 INSERT INTO `reg` (`id`, `gname`, `gnumber`, `snumber`, `fromdate`, `todate`, `reason`, `applydate`, `outpassId`, `status`, `rejected_date`, `accepted_date`) VALUES
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-08', '2022-03-30', 'adxW', '2022-03-09 02:22:16', 6, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-02', '2022-03-23', 'asdxax', '2022-03-09 02:27:44', 7, 'Rejected', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-06', '2022-03-31', 'dadwef3rfwfertrkryojo6yijkmgli3tjkmfwd2ri9rimferfkj4igefmerkgjggjrgmrg,rgmrijg5ij3kj4tmferg', '2022-03-09 02:30:20', 8, 'Approved', 'NULL', 'NULL'),
-('r170865', 'Venkatesulu Reddy', 7093423892, 9121920760, '2022-03-09', '2022-03-21', 'Friend Pavan Marriage', '2022-03-09 13:05:33', 9, 'Rejected', 'NULL', 'NULL'),
-('r170981', 'qwerty', 1234567890, 987654321, '2022-03-09', '2022-03-16', 'anti sir maki e karma', '2022-03-09 22:24:41', 10, 'Approved', 'NULL', 'NULL'),
-('r170981', 'hi', 12341234, 7676767, '2022-03-31', '2022-03-25', 'ersgtsdg', '2022-03-09 22:39:51', 11, 'Rejected', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-11', '2022-03-29', 'asdaasXSAXSW', '2022-03-09 22:46:32', 12, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-30', '2022-03-25', 'asdas', '2022-03-09 22:48:51', 13, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-23', '2022-03-30', 'saxxax', '2022-03-09 22:50:50', 14, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-31', '2022-03-30', 'aXAX', '2022-03-09 22:52:05', 15, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-31', '2022-04-08', 'XCSCASD', '2022-03-09 22:54:26', 16, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-08', '2022-04-08', 'CCASCSADC', '2022-03-09 22:54:41', 17, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-08', '2022-04-01', 'asxas', '2022-03-09 22:55:34', 18, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-09', '2022-04-01', 'xacxsac', '2022-03-09 22:56:03', 19, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-06', '2022-03-31', 'asxax', '2022-03-09 22:58:31', 20, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-01', '2022-04-01', 'ascdsa', '2022-03-09 23:03:13', 21, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-09', '2022-04-03', 'asdfsadf', '2022-03-09 23:03:56', 22, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-09', '2022-04-02', 'zcc', '2022-03-09 23:26:17', 23, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-07', '2022-03-31', 'sadasdw', '2022-03-09 23:26:50', 24, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-07', '2022-03-25', 'sdavaw', '2022-03-09 23:29:00', 25, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Venkatesulu Reddy', 12341234, 989898, '2022-05-01', '2022-05-29', 'holidays', '2022-03-10 09:39:11', 26, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 123123, 12121212, '2022-03-24', '2022-03-24', 'ccsaf', '2022-03-10 09:40:12', 27, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 123123, 12121212, '2022-03-24', '2022-03-24', 'ccsaf', '2022-03-10 09:41:02', 28, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 123123, 12121212, '2022-03-24', '2022-03-24', 'ccsaf', '2022-03-10 09:42:23', 29, 'Approved', 'NULL', 'NULL'),
-('r170865', 'Sunitha', 8096090638, 9618095243, '2022-04-07', '2022-03-25', 'AWRWER2', '2022-03-10 09:49:58', 30, 'Approved', 'NULL', 'NULL'),
-('r170865', 'Sunitha', 8096090638, 9618095243, '2022-04-08', '2022-04-01', 'cfsdaf', '2022-03-10 09:51:32', 31, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Pavan Kalyan', 1234567890, 8367553166, '2022-03-11', '2022-03-12', 'Fever', '2022-03-11 15:29:55', 32, 'Approved', 'NULL', 'NULL'),
-('r170242', 'Nagaiah', 9701604658, 8367553166, '2022-03-11', '2022-03-19', 'Typhoid', '2022-03-11 15:42:11', 33, 'Approved', 'NULL', 'NULL'),
-('r170829', 'vijayalalitha', 9059711827, 9177926934, '2022-03-11', '2022-03-12', 'movie radhe syama', '2022-03-11 16:00:47', 34, 'Approved', 'NULL', 'NULL'),
-('r170981', 'abdul', 8500379990, 8978975465, '2022-03-14', '2022-03-16', 'ee question nijamga nannu adugutunnava', '2022-03-13 08:27:19', 35, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-19', '2022-03-20', 'work at home', '2022-03-15 15:01:11', 36, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-19', '2022-03-19', 'going to my village', '2022-03-19 18:32:37', 37, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-03-24', '2022-03-26', 'hcsdajcdscwncs,cksdncwcjijckwcwkjweoijwecme  nuihdn', '2022-03-19 19:36:43', 38, 'Approved', 'NULL', 'NULL'),
-('r170981', 'Sunitha', 8096090638, 9618095243, '2022-04-25', '2022-04-28', 'There is an some work at bank ', '2022-04-24 20:59:36', 39, 'Rejected', 'NULL', 'NULL'),
-('r170981', 'sunitha', 8096090638, 121212121, '2022-04-25', '2022-04-27', 'i have some work', '2022-04-25 10:12:17', 40, 'Approved', 'NULL', 'NULL'),
-('r170865', 'Venkatesh', 7093032077, 9121920760, '2022-04-29', '2022-04-30', 'Nothing', '2022-04-28 22:32:32', 41, 'Pending', 'NULL', 'NULL'),
-('r170981', 'sunitha', 9618095243, 9618095243, '2022-07-21', '2022-07-27', 'hello  hiii', '2022-07-20 15:55:14', 42, 'Rejected', 'NULL', 'NULL'),
-('r170981', 'sunitha', 9618095243, 9618095243, '2022-07-20', '2022-07-28', 'hiii', '2022-07-20 15:58:59', 43, 'Approved', 'NULL', 'NULL'),
-('r170570', 'guardian name', 1234567890, 1234567890, '2022-10-25', '2022-10-30', 'I have some work at bank', '2022-10-25 11:46:15', 44, 'Pending', 'NULL', 'NULL'),
-('r170570', 'guardian name', 1234567890, 1234567890, '2022-10-25', '2022-10-30', 'I have some work at bank', '2022-10-25 11:46:57', 45, 'Pending', 'NULL', 'NULL'),
-('r170570', 'guardian name', 1234567890, 1234567890, '2022-10-25', '2022-10-30', 'I have some work at bank', '2022-10-25 11:47:25', 46, 'Approved', 'NULL', 'NULL');
+-- sample rows for the new sample student account 'student'
+('student', 'Parent One', 9876543210, 9876543210, '2022-11-10', '2022-11-12', 'Visit family', '2022-11-09 09:00:00', 47, 'Pending', 'NULL', 'NULL'),
+('student', 'Parent One', 9876543210, 9876543210, '2022-10-01', '2022-10-03', 'Medical appointment', '2022-09-30 10:15:00', 48, 'Approved', 'NULL', 'NULL'),
+('student', 'Parent One', 9876543210, 9876543210, '2022-09-05', '2022-09-06', 'Urgent work', '2022-09-04 08:30:00', 49, 'Rejected', 'NULL', 'NULL');
 
 -- --------------------------------------------------------
 
@@ -110,11 +73,8 @@ CREATE TABLE `student_login` (
 --
 
 INSERT INTO `student_login` (`id`, `password`, `name`, `gender`, `email`) VALUES
-('r170242', '1719109745', 'D Prudhvi Teja', 'Male', 'r170242@rguktrkv.ac.in'),
-('r170570', '1718124014', 'T Chandana', 'Female', 'r170570@rguktrkv.ac.in'),
-('r170829', 'vijaya@123', 'T Jyothsna', 'Female', 'r170829@rguktrkv.ac.in'),
-('r170865', '1719102983', 'S VEDA PRAKASH', 'Male', 'veda@gmail.com'),
-('r170981', '123123', 'Y PAVAN KUMAR REDDY', 'Male', 'pavan@gmail.com');
+-- sample login for quick testing
+('student', '12345', 'Demo Student', 'Male', 'student@example.com');
 
 -- --------------------------------------------------------
 
@@ -135,9 +95,8 @@ CREATE TABLE `warden_login` (
 --
 
 INSERT INTO `warden_login` (`empId`, `password`, `name`, `gender`, `email`) VALUES
-('170570', '1718124014', 'T Chandana (Warden)', 'Female', 'r170570@rguktrkv.ac.in'),
-('170865', 'veda@123', 'WARDEN1 (warden)', 'Male', 'veda@gmail.com'),
-('170981', 'pavan@12', 'WARDEN2 (warden)', 'Male', 'yarasipavan@gmail.com');
+-- quick test warden account
+('warden', '12345', 'Warden Account', 'Male', 'warden@example.com');
 
 --
 -- Indexes for dumped tables
@@ -161,15 +120,12 @@ ALTER TABLE `student_login`
 ALTER TABLE `warden_login`
   ADD PRIMARY KEY (`empId`);
 
---
+-- --------------------------------------------------------
 -- AUTO_INCREMENT for dumped tables
---
+-- --------------------------------------------------------
 
---
--- AUTO_INCREMENT for table `reg`
---
 ALTER TABLE `reg`
-  MODIFY `outpassId` bigint(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=47;
+  MODIFY `outpassId` bigint(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
