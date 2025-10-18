@@ -1,0 +1,10 @@
+# PHP / editor / build
+/vendor/
+node_modules/
+.env
+*.sqlite
+*.log
+*.zip
+.DS_Store
+.vscode/
+.idea/
